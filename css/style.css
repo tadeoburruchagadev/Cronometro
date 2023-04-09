@@ -1,0 +1,12 @@
+#cronometro {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 50px;
+}
+#botones {
+  margin-top: 20px;
+}
+button {
+  font-size: 24px;
+  margin: 0 10px;
+}
